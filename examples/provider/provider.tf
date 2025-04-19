@@ -1,3 +1,3 @@
-provider "scaffolding" {
+provider "freebox" {
   # example configuration here
 }
